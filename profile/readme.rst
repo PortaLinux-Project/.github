@@ -16,6 +16,6 @@ after release version 0.11
 Code of Conduct
 ###############
 
-Even though we don't have contributions open, we still have a code of conduct that can be found here_
+Even though we don't have contributions open, we still have a code of conduct that can be found `here`_
 
-_here: https://github.com/portalinux-project/.github/conduct.rst
+.. _`here`: https://github.com/portalinux-project/.github/conduct.rst
