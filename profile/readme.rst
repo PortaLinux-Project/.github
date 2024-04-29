@@ -11,6 +11,7 @@ Completion Status
 #################
 
 **Current Stage: Alpha**
+
 **Overall: 47.5%**
 
 * PortaLinux Base RootFS: 80%
