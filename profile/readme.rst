@@ -10,7 +10,7 @@ importantly, PortaLinux itself.
 Completion Status
 #################
 
-**Current Stage: Alpha**
+**Current Development Stage: Alpha**
 
 **Overall: 47.5%**
 
