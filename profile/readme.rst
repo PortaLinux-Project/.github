@@ -7,6 +7,17 @@ being under 2MB in size and requiring less than 64MB of RAM. The Project's core 
 the PortaLinux Toolkit (``pltk``), the PortaLinux Init System (``pl-srv``), the PortaLinux Terminal Library (``pltermlib``) and, most
 importantly, PortaLinux itself.
 
+Completion Status
+#################
+
+**Current Stage: Alpha**
+**Overall: 47.5%**
+
+* PortaLinux Base RootFS: 80%
+* PortaLinux Terminal Library: 90%
+* PortaLinux ToolKit: 20%
+* PortaLinux Ports System: 0%
+
 Contributions
 #############
 
