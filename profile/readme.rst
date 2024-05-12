@@ -12,11 +12,11 @@ Completion Status
 
 **Current Development Stage: Alpha**
 
-**Overall: 47.5%**
+**Overall: 45%**
 
-* PortaLinux Base RootFS: 80%
+* PortaLinux Base RootFS: 85%
 * PortaLinux Terminal Library: 90%
-* PortaLinux ToolKit: 20%
+* PortaLinux ToolKit: 5%
 * PortaLinux Ports System: 0%
 
 Licensing
