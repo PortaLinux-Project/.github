@@ -12,11 +12,11 @@ Completion Status
 
 **Current Development Stage: Alpha**
 
-**Overall: 45.43%**
+**Overall: 45.83%**
 
-- PortaLinux Base RootFS: 66.7%
+- PortaLinux Base RootFS: 68.3%
 	- PortaLinux Runtime: 100%
-	- PortaLinux Init System: 95%
+	- PortaLinux Init System: 100%
 	- PortaLinux Core Utilities: 5%
 - PortaLinux Terminal Library: 90%
 - PortaLinux ToolKit: 5%
